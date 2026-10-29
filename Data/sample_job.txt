@@ -1,0 +1,12 @@
+
+Job Title: Junior Machine Learning Engineer
+
+Requirements:
+- Strong Python programming skills
+- Knowledge of machine learning and deep learning
+- Experience with NumPy and Pandas
+- Knowledge of scikit-learn and data analysis
+- Understanding of SQL and statistics
+- Familiarity with TensorFlow or PyTorch
+- Knowledge of Git and version control
+- Ability to preprocess data and evaluate ML models
